@@ -1,4 +1,6 @@
-# Sampurasun..
+# Sampurasun
+
+<!-- I'm **Ma'mur Mulyawan**, you can call me **Mur** and I'm interested in *web development* -->
 
 <br>
 
@@ -22,4 +24,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ma-mur&label=Profile%20views&color=0e75b6&style=flat" alt="ma-mur" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ma-mur&label=Profile%20views&color=0e75b6&style=flat" alt="ma-mur" /> </p> -->
